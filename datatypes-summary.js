@@ -12,7 +12,7 @@ let userEmail;
 const id = Symbol('123')
 const anotherId = Symbol('123')
 
-consnole.log(id=== anotherId);
+console.log(id=== anotherId);
 
 // const bigNumber = 234343482959278237427n
 
