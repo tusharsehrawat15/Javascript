@@ -20,9 +20,5 @@ let myTimeStamp = Date.now()
 let neewDate = new Date()
 console.log(newDate)
 console.log(newDate.getMonth() + 1)
-console.log(newDate.getDay());
+console.log(newDate.getDay())
 
-newDate.toLoacaleString('default'){
-    weekday: " long",
-    
-}
